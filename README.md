@@ -1,6 +1,11 @@
 # weather
 
 A new Flutter application.
+apllication help us to detect forecast around world.
+we can search specific city.
+save last sesion in cach memory and reload it wehen we have no internet.
+if we have internet the app will update last city we serched.
+default searched value "Dubai".
 
 ## Getting Started
 
